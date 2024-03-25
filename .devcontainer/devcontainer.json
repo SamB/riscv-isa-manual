@@ -1,0 +1,5 @@
+{
+  "image": "riscvintl/riscv-docs-base-container-image:latest",
+  "features": {
+  }
+}
